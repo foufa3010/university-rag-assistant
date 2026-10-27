@@ -1,0 +1,33 @@
+University Course Catalogue — Sample Dataset
+Academic year: 2026–2027
+Owner: Academic Affairs
+
+CS201 — Programming Fundamentals
+Credits: 6. Topics include variables, control flow, functions, and basic problem solving. CS201 is a prerequisite for CS301.
+
+CS220 — Discrete Mathematics
+Credits: 5. Topics include logic, sets, relations, and graph theory. CS220 is a prerequisite for CS301.
+
+CS301 — Data Structures and Algorithms
+Credits: 6. Prerequisites: students must pass both CS201 and CS220 before enrolling. Recommended preparation: introductory programming practice.
+
+CS315 — Database Systems
+Credits: 5. Prerequisite: CS201. Topics include relational databases, SQL, normalization, and transactions.
+
+CS330 — Computer Networks
+Credits: 5. Prerequisite: CS220. Topics include network protocols, routing, addressing, and network security fundamentals.
+
+CS350 — Introduction to Cybersecurity
+Credits: 5. Prerequisite: CS330. Topics include security principles, threat modeling, access control, and incident response.
+
+CS401 — Software Engineering Project
+Credits: 8. Prerequisites: CS301 and CS315. Students work in teams to plan, implement, test, and document a software project.
+
+MATH110 — Calculus I
+Credits: 6. Topics include limits, derivatives, and introductory integration.
+
+STAT210 — Applied Statistics
+Credits: 5. Prerequisite: MATH110. Topics include probability, estimation, confidence intervals, and regression.
+
+ENG101 — Academic English
+Credits: 3. No prerequisites. Students practice academic reading, writing, and presentations.

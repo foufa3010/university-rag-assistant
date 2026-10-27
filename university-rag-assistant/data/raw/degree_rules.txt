@@ -1,0 +1,21 @@
+Degree Rules — Sample Dataset
+Academic year: 2026–2027
+Owner: Academic Affairs
+
+Minimum credits
+Students must earn at least 120 credits to graduate from the undergraduate computing degree. Credit totals alone are not sufficient for graduation.
+
+Required courses
+Students must pass every course marked as required in their approved degree plan. A failed required course must be retaken and passed unless an official approved substitution or exception applies.
+
+Prerequisites
+A student may enroll in a course only after passing all listed prerequisite courses, unless the department has granted a documented exception. Being enrolled in a prerequisite at the same time does not count as having passed it.
+
+Graduation review
+Before graduation, the academic office verifies minimum credits, completion of required courses, and any program-specific conditions. The chatbot cannot make an official graduation eligibility decision.
+
+Transfer credits
+Transfer credits count toward the degree only after the university has evaluated and approved them. Students should not assume that a course taken elsewhere automatically counts.
+
+Policy exceptions
+Only written approval from the authorized department or academic office establishes an exception. Verbal statements do not replace documented approval.
